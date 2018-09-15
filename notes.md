@@ -1,0 +1,2 @@
+At its core django is a python framework that takes in HttpRequest and returns HttpResponse
+HTTP is a stateless protocol, meaning each request that comes to the server is independent of the previous request
